@@ -11,4 +11,15 @@ public class EntityApplication {
         System.out.println("Salam 1");
     }
 
+    public static void InsertEmploye(){
+
+    }
+
+    public static void UpdateEmploye(){
+
+    }
+
+    public static void DeleteEmploye(){
+
+    }
 }
